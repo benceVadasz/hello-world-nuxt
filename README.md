@@ -1,16 +1,3 @@
-![Photo by Joshua Woroniecki on Unsplash](https://user-images.githubusercontent.com/2342458/204334325-7625b781-db8a-40b5-ac3c-91f2d7c8c526.png)
-
-# Kinsta - Hello World - NuxtJS
-
-An example of how to deploy a **NuxtJS** application on Kinsta.
-
----
-Kinsta is a developer-centric cloud host / PaaS. We’re striving to make it easier for you to share your web projects with your users. Focus on coding and building, and we’ll take care of deployment and provide fast, scalable hosting. + 24/7 expert-only support.
-
-- [Start your free trial](https://kinsta.com/signup/?product_type=app-db)
-- [Application Hosting](https://kinsta.com/application-hosting)
-- [Database Hosting](https://kinsta.com/database-hosting)
-
 ## Dependency Management
 
 Kinsta automatically installs dependencies defined in your `package.json` file during the deployment process.
